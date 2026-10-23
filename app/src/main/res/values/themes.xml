@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.DeepSeekPow" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6750A4</item>
+        <item name="android:statusBarColor">#6750A4</item>
+    </style>
+</resources>
